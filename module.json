@@ -1,0 +1,29 @@
+{
+  "name": "il-regno-di-wagham-tyruger",
+  "title": "Il Regno di Wagham - Tyruger",
+  "description": "",
+  "author": "R20Converter",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Actors (Il Regno di Wagham - Tyruger)",
+      "path": "packs/actors.db",
+      "module": "il-regno-di-wagham-tyruger",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Il Regno di Wagham - Tyruger)",
+      "path": "packs/scenes.db",
+      "module": "il-regno-di-wagham-tyruger",
+      "entity": "Scene",
+      "type": "Scene"
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}
