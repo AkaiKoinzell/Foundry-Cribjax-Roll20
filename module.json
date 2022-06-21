@@ -24,6 +24,6 @@
       "type": "Scene"
     }
   ],
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/AkaiKoinzell/Foundry-Tyruger-Roll20/main/module.json",
   "download": ""
 }
