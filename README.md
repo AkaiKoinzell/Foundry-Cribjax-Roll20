@@ -1,2 +1,2 @@
-# Foundry-Tyruger-Roll20
-Module containing Diego's Roll20 Actors
+# Foundry-Cribjax-Roll20
+Module containing Mario's Roll20 Actors
