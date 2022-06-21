@@ -1,6 +1,6 @@
 {
-  "name": "il-regno-di-wagham-tyruger",
-  "title": "Il Regno di Wagham - Tyruger",
+  "name": "il-regno-di-wagham-mariocepp05",
+  "title": "Il Regno di Wagham - MarioCepp05",
   "description": "",
   "author": "R20Converter",
   "version": "1.0.0",
@@ -9,21 +9,21 @@
   "packs": [
     {
       "name": "actors",
-      "label": "Actors (Il Regno di Wagham - Tyruger)",
+      "label": "Actors (Il Regno di Wagham - MarioCepp05)",
       "path": "packs/actors.db",
-      "module": "il-regno-di-wagham-tyruger",
+      "module": "il-regno-di-wagham-mariocepp05",
       "entity": "Actor",
       "type": "Actor"
     },
     {
       "name": "scenes",
-      "label": "Scenes (Il Regno di Wagham - Tyruger)",
+      "label": "Scenes (Il Regno di Wagham - MarioCepp05)",
       "path": "packs/scenes.db",
-      "module": "il-regno-di-wagham-tyruger",
+      "module": "il-regno-di-wagham-mariocepp05",
       "entity": "Scene",
       "type": "Scene"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/AkaiKoinzell/Foundry-Tyruger-Roll20/main/module.json",
-  "download": "https://mega.nz/file/spojWY4C#Zff-i8RfIJh5CH5eXLy1WpnzmM9edryFRi-UYTTEp6o"
+  "manifest": ""
+  "download": ""
 }
